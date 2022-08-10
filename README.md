@@ -6,11 +6,11 @@ This project is an update to the previously created portfolio, to include links 
 
 ## Installation
 
-Portfolio may be accessed through the following URL: 
+Portfolio may be accessed through the following URL: https://rensyphon.github.io/Portfolio-Update-1/
 
 ## Usage
 
-Access at .
+Access at https://rensyphon.github.io/Portfolio-Update-1/v.
 
     ```md
     ![portfolio screenshot](assets/images/screenshot.jpg)
